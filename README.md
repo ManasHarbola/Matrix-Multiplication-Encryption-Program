@@ -1,5 +1,5 @@
 # Matrix-Multiplication-Encryption-Program
-Written in C++14 and compiled with Visual Studio C++ by Manas Harbola, Yash Patel, and Renuka Ravinder. 
+Written in C++14 and compiled with Visual Studio C++ by Manas Harbola, Yash Patel, and Renuka Ravinder. (Original Date: April 25, 2017)
 
 ## Purpose/Function:
 This program utilizes a randomly generated hill cipher 3x3 matrix to encrypt a given message string and stores the encrypted message into a .txt file which can later be decrypted. 
